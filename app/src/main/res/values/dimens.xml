@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_field_width"> 96dp </dimen>
+    <dimen name="text_field_height"> 56dp </dimen>
+    <dimen name="text_size_title"> 28sp </dimen>
+    <dimen name="text_size"> 16sp </dimen>
+    <dimen name="button_height"> 24dp </dimen>
+    <dimen name="button_width"> 32dp </dimen>
+    <dimen name="margin_start"> 32dp </dimen>
+    <dimen name="margin_end"> 32dp </dimen>
+    <dimen name="margin_top"> 32dp </dimen>
+    <dimen name="margin_bottom"> 48dp </dimen>
+
+
+
+
+</resources>
